@@ -77,7 +77,7 @@ require 'function.php';
             <button type="submit" class="btn btn-success" name="register">Registrasi</button>
         </div>
                                     <hr />
-                                    Sudah Terdaftar?<a href="login.php" >Login here</a>
+                                    Anda Sudah Terdaftar ? <a href="login.php" >Login here</a>
                                     </form>
                             </div>
                            
